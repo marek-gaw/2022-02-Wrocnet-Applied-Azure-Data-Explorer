@@ -1,0 +1,1 @@
+# 2022-02-Wrocnet-Applied-Azure-Data-Explorer
